@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 #### 🌱 &nbsp;Currently learning
 
-![flutter](https://img.shields.io/badge/-flutter-blue?style=flat&logo=flutter)
-![dart](https://img.shields.io/badge/-dart-yellow?style=flat&logo=dart)
+![Rust](https://img.shields.io/badge/-rust-grey?style=flat&logo=rust)
 
 <!-- #### 🤝🏻 &nbsp;Contact with Me -->
 
