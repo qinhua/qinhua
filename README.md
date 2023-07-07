@@ -18,16 +18,19 @@ Here are some ideas to get you started:
 
 #### 🛠 &nbsp;Tech Stack
 
-![vue](https://img.shields.io/badge/-vue-333333?style=flat&logo=vue.js)
-![react](https://img.shields.io/badge/-react-333333?style=flat&logo=react)
-![typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
-![electron](https://img.shields.io/badge/-electron-333333?style=flat&logo=electron)
-![uni-app](https://img.shields.io/badge/-node-333333?style=flat&logo=node.js)
-![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
+![vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![react](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![nextjs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+![nestjs](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+![electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
+![uni-app](https://img.shields.io/badge/-Uniapp-333333?style=flat&logo=uniapp)
+![docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 #### 🌱 &nbsp;Currently learning
 
-![Rust](https://img.shields.io/badge/-rust-grey?style=flat&logo=rust)
+![solidity](https://img.shields.io/badge/-Solidity-grey?style=flat&logo=solidity)
 
 <!-- #### 🤝🏻 &nbsp;Contact with Me -->
 
