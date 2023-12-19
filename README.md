@@ -1,23 +1,24 @@
-### Hi there 👋，I am BabyChin.
+# Hello, I'm BabyChin! 👋
 
-<!--
-**qinhua/qinhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Frontend Engineer who loves to explore new techs and leverage them to solve real-life problems. I'm currently diving into Web3.
 
-Here are some ideas to get you started:
+## 🎨 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="right" width="400px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qinhua&count_private=true&show_icons=true" />
-
-#### 🛠 &nbsp;Tech Stack
-
+<div>
+  <ul>
+    <li> 🔭 I’m currently working on CARV.</li>
+    <li> 🌱 I’m currently learning WebAssembly.</li>
+    <li> 👯 I’m looking to collaborate on AI and Web3.</li>
+    <li> 🤔 I’m looking for help with Deep-learning.</li>
+    <li> 💬 Ask me about Web3.</li>
+    <li> 😄 Hobbies: 🏃 🛹 📚 📷</li>
+  </ul>
+  
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qinhua&count_private=true&show_icons=true&theme=radical" />
+</div>
+  
+## 🛠 Skills
 ![vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![react](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -27,13 +28,9 @@ Here are some ideas to get you started:
 ![electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
 ![uni-app](https://img.shields.io/badge/-Uniapp-333333?style=flat&logo=uniapp)
 ![docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-#### 🌱 &nbsp;Currently learning
-
 ![solidity](https://img.shields.io/badge/-Solidity-grey?style=flat&logo=solidity)
 
-<!-- #### 🤝🏻 &nbsp;Contact with Me -->
 
-<!-- <a href="mailto:352484005@qq.com"><img alt="email" src="https://img.shields.io/badge/Phone-+8613260610021-9cf?style=flat-square"></a> -->
-<!-- <a href="mailto:352484005@qq.com"><img alt="email" src="https://img.shields.io/badge/Email-352484005@qq.com-9cf?style=flat-square"></a> -->
-<!-- <a href="mailto:352484005@qq.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-qinhua68@gmail.com-blue?style=flat-square"></a> -->
+## 🤝 Connect with Me
+- 🌐 [My Website](https://bbchin.com)
+- 🐦 [Twitter](https://twitter.com/YoBabyChin)
