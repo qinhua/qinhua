@@ -5,9 +5,9 @@ I'm a passionate Fullstack Engineer who loves to explore new techs and leverage 
 
 ## 🎨 What I Do
 
-- 🔭 I am currently an independent developer and trail runner.
+- 🔭 I am currently an **Independent Developer** and **Trail Runner**.
 - 👯 I’m looking to collaborate on **Web3** and **AI**.
-- 🤔 I’m looking for help with **Deep-learning**.
+- 🤔 I’m looking for help with **Deep-learning** and **Quantitative Trading**.
 - 💬 Ask me about **Web3** and **Independent Development**.
 - 😄 Hobbies: 🏃 🛹 📚 📷
   
