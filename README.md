@@ -1,15 +1,14 @@
 # Hello, I'm BabyChin! 👋
 
 ## 🚀 About Me
-I'm a passionate Frontend Engineer who loves to explore new techs and leverage them to solve real-life problems. I'm currently diving into Web3.
+I'm a passionate Fullstack Engineer who loves to explore new techs and leverage them to solve real-life problems. I'm currently diving into Web3 and AI.
 
 ## 🎨 What I Do
 
-- 🔭 I’m currently working on **CARV**.
-- 🌱 I’m currently learning **WebAssembly**.
-- 👯 I’m looking to collaborate on **AI** and **Web3**.
+- 🔭 I am currently an independent developer and trail runner.
+- 👯 I’m looking to collaborate on **Web3** and **AI**.
 - 🤔 I’m looking for help with **Deep-learning**.
-- 💬 Ask me about **Web3**.
+- 💬 Ask me about **Web3** and **Independent Development**.
 - 😄 Hobbies: 🏃 🛹 📚 📷
   
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qinhua&count_private=true&show_icons=true&theme=date_night" />
