@@ -82,6 +82,6 @@ I enjoy turning ambiguous requirements into clear service boundaries and usable 
 
 [![Email](https://img.shields.io/badge/Email-qinhua68%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qinhua68@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-qinhua-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qinhua)
-[![X](https://img.shields.io/badge/X-%40YoBabyChin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/marek_qin)
+[![X](https://img.shields.io/badge/X-%40marek_qin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/marek_qin)
 
 Open to conversations about **AI applications, fullstack engineering, Agent workflows, and open source**.
