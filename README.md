@@ -48,7 +48,7 @@ I enjoy turning ambiguous requirements into clear service boundaries and usable 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 **AI application and Agent workflows**
 
@@ -82,6 +82,6 @@ I enjoy turning ambiguous requirements into clear service boundaries and usable 
 
 [![Email](https://img.shields.io/badge/Email-qinhua68%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qinhua68@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-qinhua-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qinhua)
-[![X](https://img.shields.io/badge/X-%40YoBabyChin-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YoBabyChin)
+[![X](https://img.shields.io/badge/X-%40YoBabyChin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/marek_qin)
 
 Open to conversations about **AI applications, fullstack engineering, Agent workflows, and open source**.
